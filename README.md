@@ -1,5 +1,4 @@
-# Phytoplankton-Modeling-in-the-James-River 
-NASA SARP
+# NASA SARP
 
 This project aimed to establish a relationship between Landsat-8 multispectral imagery and in situ Chlorophyll-a (Chl-a) measurements along the James River. Data was obtained from Chesapeake Bay Program Database:[https://www.chesapeakebay.net/what/data] and NASA Landsat-8:[https://earthexplorer.usgs.gov/]. The code includes data preprocessing, visualization, and Regression algorithm development using various approaches including Principal Components Analysis (PCA). 
 
